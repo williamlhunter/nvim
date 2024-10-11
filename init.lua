@@ -524,6 +524,7 @@ require('lazy').setup({
             },
           },
         },
+        powershell_es = {},
       }
 
       -- Ensure the servers and tools above are installed
